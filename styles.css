@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+article {
+  border: 2px solid black;
+  margin: auto;
+  width: 40vw;
+  height: 90vh;
+  margin-top: 4vh;
+}
+
+.head-line {
+  border-top: 2px solid black;
+  margin-top: 2rem;
+  margin-left: 50px;
+  width: 70%;
+  height: 2px;
+}
+
+p {
+  font-size: large;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
